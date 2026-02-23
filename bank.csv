@@ -1,0 +1,31 @@
+CustomerID,Name,AccountNo,AccountType,Balance,Branch,LastTransactionDate,RiskLevel
+101,Raamesh Rao,1234567890,Savings,45000,Bhopal,2025-12-01,Low
+102,Priya Singh,9876543210,Current,120000,Indore,2025-12-05,Low
+103,Ajay Mehta,1122334455,Savings,75500,Gwalior,2025-12-07,Low
+104,Neha Verma,5566778899,Fixed Dep.,250000,Bhopal,2025-11-30,Low
+105,Arjun Patel,9988776655,Savings,15000,Jabalpur,2025-12-02,High
+106,Kiran Sharma,2233445566,Current,98000,Bhopal,2025-12-03,Low
+107,Sunita Joshi,3344556677,Savings,18000,Indore,2025-12-04,High
+108,Ravi Gupta,4455667788,Fixed Dep.,300000,Gwalior,2025-12-06,Low
+109,Meena Kumari,5566778890,Savings,65000,Jabalpur,2025-12-07,Low
+110,Vikas Yadav,6677889900,Current,200000,Bhopal,2025-12-08,Low
+111,Anita Desai,7788990011,Savings,35000,Indore,2025-12-01,Low
+112,Sachin Tiwari,8899001122,Current,50000,Gwalior,2025-12-02,Low
+113,Deepa Nair,9900112233,Savings,17000,Bhopal,2025-12-03,High
+114,Manoj Kumar,1112223334,Fixed Dep.,400000,Indore,2025-12-04,Low
+115,Shreya Jain,2223334445,Savings,25000,Jabalpur,2025-12-05,Low
+116,Rahul Verma,3334445556,Current,110000,Gwalior,2025-12-06,Low
+117,Pooja Singh,4445556667,Savings,9000,Bhopal,2025-12-07,High
+118,Amit Patel,5556667778,Fixed Dep.,275000,Indore,2025-12-08,Low
+119,Geeta Rani,6667778889,Savings,72000,Jabalpur,2025-12-01,Low
+120,Alok Sharma,7778889990,Current,130000,Bhopal,2025-12-02,Low
+121,Varun Joshi,8889990001,Savings,4500,Indore,2025-12-03,High
+122,Neelam Gupta,9990001112,Fixed Dep.,500000,Gwalior,2025-12-04,Low
+123,Suresh Yadav,1110002223,Savings,85000,Jabalpur,2025-12-05,Low
+124,Komal Mehta,2220003334,Current,95000,Bhopal,2025-12-06,Low
+125,Arvind Rao,3330004445,Savings,19500,Indore,2025-12-07,High
+126,Swati Jain,4440005556,Fixed Dep.,320000,Gwalior,2025-12-08,Low
+127,Prakash Singh,5550006667,Savings,60000,Jabalpur,2025-12-01,Low
+128,Divya Patel,6660007778,Current,140000,Bhopal,2025-12-02,Low
+129,Harish Kumar,7770008889,Savings,10000,Indore,2025-12-03,High
+130,Anjali Sharma,8880009990,Fixed Dep.,280000,Gwalior,2025-12-04,Low
